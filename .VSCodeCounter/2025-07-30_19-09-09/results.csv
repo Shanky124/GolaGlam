@@ -1,0 +1,36 @@
+"filename", "language", "JavaScript", "JavaScript JSX", "PostCSS", "Markdown", "JSON", "HTML", "XML", "comment", "blank", "total"
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\README.md", "Markdown", 0, 0, 0, 7, 0, 0, 0, 0, 6, 13
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\eslint.config.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 2, 30
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\index.html", "HTML", 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\package-lock.json", "JSON", 0, 0, 0, 0, 3446, 0, 0, 0, 1, 3447
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\package.json", "JSON", 0, 0, 0, 0, 31, 0, 0, 0, 1, 32
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\App.jsx", "JavaScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 4, 43
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\assets\assets.js", "JavaScript", 718, 0, 0, 0, 0, 0, 0, 0, 5, 723
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Bestseller.jsx", "JavaScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 10, 46
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Carttotal.jsx", "JavaScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 3, 33
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Footer.jsx", "JavaScript JSX", 0, 34, 0, 0, 0, 0, 0, 4, 1, 39
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Hero.jsx", "JavaScript JSX", 0, 23, 0, 0, 0, 0, 0, 2, 1, 26
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Latestcollection.jsx", "JavaScript JSX", 0, 38, 0, 0, 0, 0, 0, 1, 6, 45
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Navbar.jsx", "JavaScript JSX", 0, 66, 0, 0, 0, 0, 0, 1, 8, 75
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Nesletterbox.jsx", "JavaScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Ourpolicy.jsx", "JavaScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 2, 28
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\ProductItem.jsx", "JavaScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 4, 28
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Relatedproducts.jsx", "JavaScript JSX", 0, 29, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Searchbar.jsx", "JavaScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 6, 17
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\components\Title.jsx", "JavaScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 8, 21
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\context\ShopContext.jsx", "JavaScript JSX", 0, 77, 0, 0, 0, 0, 0, 1, 15, 93
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\index.css", "PostCSS", 0, 0, 19, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\main.jsx", "JavaScript JSX", 0, 13, 0, 0, 0, 0, 0, 2, 4, 19
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\About.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\Cart.jsx", "JavaScript JSX", 0, 54, 0, 0, 0, 0, 0, 0, 8, 62
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\Collection.jsx", "JavaScript JSX", 0, 113, 0, 0, 0, 0, 0, 9, 22, 144
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\Contact.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 3, 10
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\Home.jsx", "JavaScript JSX", 0, 18, 0, 0, 0, 0, 0, 0, 2, 20
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\login.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\order.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\placeorder.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\src\pages\product.jsx", "JavaScript JSX", 0, 88, 0, 0, 0, 0, 0, 5, 7, 100
+"c:\Users\Ajay\Desktop\Gola Glam\frontend\vite.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 1, 1, 8
+"Total", "-", 752, 784, 19, 7, 3477, 13, 2, 26, 153, 5233
