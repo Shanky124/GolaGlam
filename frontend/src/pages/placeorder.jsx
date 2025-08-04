@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react'
 import Title from '../components/Title';
 import Carttotal from '../components/Carttotal';
 import { assets } from '../assets/assets';
-import { ShopContext } from '../context/Shopcontext';
+import { ShopContext } from '../context/ShopContext';
 
 const placeorder = () => {
 const [method,setmethod]=useState('cod');

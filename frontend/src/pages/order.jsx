@@ -20,7 +20,7 @@
 
 //export default orders;
 import React, { useContext } from 'react';
-import { ShopContext } from '../context/Shopcontext';
+import { ShopContext } from '../context/ShopContext';
 import Title from '../components/Title';
 
 const Orders = () => {

@@ -6,7 +6,7 @@ import profile_icon from '../assets/profile_icon.png'
 import cart_icon from '../assets/cart_icon.png'
 import menu_icon from '../assets/menu_icon.png'
 import dropdown_icon from '../assets/dropdown_icon.png'
-import { ShopContext } from '../context/Shopcontext'
+import { ShopContext } from '../context/ShopContext'
 
 const Navbar = () => { const [visible,setVisible]=useState(false);
   const {getCartCount}=useContext(ShopContext);

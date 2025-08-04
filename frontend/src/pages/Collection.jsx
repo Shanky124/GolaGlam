@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useContext } from 'react'
-import { ShopContext } from '../context/Shopcontext'
+import { ShopContext } from '../context/ShopContext'
 import Dropdown_icon from "../assets/dropdown_icon.png"
 import Title from '../components/Title'
 import ProductItem from '../components/ProductItem'

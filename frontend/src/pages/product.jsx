@@ -1,6 +1,6 @@
 import React, { use, useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import { ShopContext } from '../context/Shopcontext';
+import { ShopContext } from '../context/ShopContext';
 import star_icon  from "../assets/star_icon.png"
 import star_dull_icon from "../assets/star_dull_icon.png"
 import Relatedproducts from '../components/Relatedproducts';
