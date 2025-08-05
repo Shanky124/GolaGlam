@@ -7,8 +7,6 @@ import { useNavigate } from "react-router-dom";
 // export const ShopContext=createContext();
  const ShopContext = createContext();
 
-
-
  const ShopContextProvider =(props)=>{
     const currency = '₹';
 const delivery_fee= 10;
@@ -24,7 +22,6 @@ const placeOrder = (orderData) => {
   setOrderDetails(orderData);
   setCartItems({}); // Clear cart after placing order (optional)
 };
-
 
 //
 

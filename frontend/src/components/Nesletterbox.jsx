@@ -12,10 +12,11 @@ const Nesletterbox = () => {
   <input className='w-full outline-none sm:flex-1/2' type='email' placeholder='Enter Your Email' required/>
   <button type='submit' className='bg-black text-white text-sm py-4 px-9 '>SUBSCRIBE</button>
     </form>  
-    
-    
+
     </div>
   )
 }
 
-export default Nesletterbox
+export default Nesletterbox;
+
+

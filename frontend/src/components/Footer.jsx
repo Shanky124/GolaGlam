@@ -27,8 +27,8 @@ const Footer = () => {
     <li><span>Email - </span>contact@golaglamredefined.com</li>
 </ul>
 </div>
-            </div>
-            <div>
+              </div>
+              <div>
                 <hr/>
                 <p className='py-5 text-center text-lg'>Copyright @2025 GolaGlam - All Rights Reserved. </p>
             </div>
